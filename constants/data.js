@@ -42,14 +42,14 @@ const userData = {
 		{
 			title: "Engineer Intern",
 			company: "Huawei Technologies Jamaica",
-			year: "Mar 2020 - August 2020",
+			year: "Mar 2020 - Aug 2020",
 			companyLink: "https://huawei.com",
 			desc: "Quality Tested installions by agreed quality standards for one of Jamaica's premier telecommunications provider",
 		},
 		{
 			title: "Subaway Associate",
 			company: "Subway",
-			year: "June 2019 - August 2019",
+			year: "Jun 2019 - Aug 2019",
 			companyLink: "https://subway.com",
 			desc: "Kitchen Staff",
 		},
