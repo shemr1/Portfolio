@@ -17,12 +17,12 @@ const userData = {
 		title:
 			"I'm a software developer that loves building products and web applications that impact millions of lives",
 		description: [
-			`I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-			`After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-			`But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+			`I've been developing full-stack application since I was 16 years old. I didn't know what full-stack meant at that time because the term was foreign to me and my peers. `,
+			`After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that it would be more efficient and less hassling for me.`,
+			`But now, I'm more experienced with developing software and design interfaces and allowing for better user experience. I've been coding in React, Angular, Next, Node.js, Express,  MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Assembly, and a bit of Swift here and there.  Although I dont consider myself a true master of any one language or developing style. I hold the premise that``A jack of all trades is a master of none, but oftentimes better than a master of one.`,
 		],
 		currentProject: "EmployeesR'us",
-		// currentProjectUrl: "https://tailwindmasterkit.com",
+		currentProjectUrl: "https://skillsbank.vercel.app",
 	},
 	experience: [
 		{
@@ -69,7 +69,7 @@ const userData = {
 		},
 	],
 	resumeUrl:
-		"https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+		"https://drive.google.com/file/d/1bMR2LkrxrLxqj-Oep9fMwRJh9XHCFkq4/view?usp=sharing",
 	socialLinks: {
 		instagram: "https://www.instagram.com/shxmr__/",
 		twitter: "https://twitter.com/Shxmr___",
