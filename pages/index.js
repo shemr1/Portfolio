@@ -11,7 +11,7 @@ export default function Home({ repositories }) {
 	return (
 		<ContainerBlock
 			title="Shemar Brown-Wright - Developer, Analyst, Creator"
-			description="Portfolio Created using the template made by Manu Arora."
+			description="Personal Portfolio for Full Stack Developer - Shemar Brown-Wright."
 		>
 			<Hero />
 			<FavouriteProjects />
