@@ -28,7 +28,7 @@ const userData = {
 		{
 			title: "Software Developer",
 			company: "Digicel Jamaica",
-			year: "Oct 2020 - May 2022",
+			year: "May 2022 - Present",
 			companyLink: "https://www.digicelgroup.com/jm/en.html",
 			desc: "The Bigger Better Network.",
 		},
