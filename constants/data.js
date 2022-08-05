@@ -26,9 +26,16 @@ const userData = {
 	},
 	experience: [
 		{
+			title: "Software Developer",
+			company: "Digicel Jamaica",
+			year: "Oct 2020 - May 2022",
+			companyLink: "https://www.digicelgroup.com/jm/en.html",
+			desc: "The Bigger Better Network.",
+		},
+		{
 			title: "Jnr Software Developer",
 			company: "Wright's Intelligence Services Ltd",
-			year: "Oct 2020 - Present",
+			year: "Oct 2020 - May 2022",
 			companyLink: "https://idmaps-intl.com/",
 			desc: "Innovative Data Mining and Advanced Analytics Partners.",
 		},
