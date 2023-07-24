@@ -73,7 +73,7 @@ const userData = {
 		},
 	],
 	resumeUrl:
-		"https://drive.google.com/file/d/1bMR2LkrxrLxqj-Oep9fMwRJh9XHCFkq4/view?usp=sharing",
+		"https://drive.google.com/file/d/1FExZUP5OOaUkevMzhRFbRUqdRq7sEoIj/view?usp=sharing",
 	socialLinks: {
 		instagram: "https://www.instagram.com/shxmr__/",
 		twitter: "https://twitter.com/Shxmr___",
