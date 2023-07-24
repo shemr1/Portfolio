@@ -9,7 +9,6 @@ const userData = {
 	projects: [
 		{
 			title: "Portfolio",
-			link: "https://manuarora.in",
 			imgUrl: "/portfolio.png",
 		},
 	],
@@ -17,9 +16,7 @@ const userData = {
 		title:
 			"I'm a software developer that loves building products and web applications that impact millions of lives",
 		description: [
-			`I've been developing full-stack application since I was 16 years old. I didn't know what full-stack meant at that time because the term was foreign to me and my peers. `,
-			`After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that it would be more efficient and less hassling for me.`,
-			`But now, I'm more experienced with developing software and design interfaces and allowing for better user experience. I've been coding in React, Angular, Next, Node.js, Express,  MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Assembly, and a bit of Swift here and there.  Although I dont consider myself a true master of any one language or developing style. I hold the premise that 'A jack of all trades is a master of none, but oftentimes better than a master of one'.`,
+			`Highly motivated individual with experience in developing and implementing software solutions. Proven expertise in developing, testing and debugging high performing software solutions with a keen eye for detail. Skilled in object-oriented programming, web development and database technologies. Excellent problem-solving and communication skills and demonstrates a passion for learning and implementing new technologies.'.`,
 		],
 		currentProject: "EmployeesR'us",
 		currentProjectUrl: "https://skillsbank.vercel.app",
